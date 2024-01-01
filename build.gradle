@@ -22,6 +22,8 @@ plugins {
 
 firebaseLibrary {
     libraryGroup "inappmessaging"
+
+
     testLab.enabled = true
 }
 
